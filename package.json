@@ -1,5 +1,5 @@
 {
-  "name": "phonz",
+  "name": "blooz",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "access": "public"
   },
   "bin": {
-    "phonz": "./index.js"
+    "blooz": "./index.js"
   },
   "author": "Moe Shaaban",
   "dependencies": {
